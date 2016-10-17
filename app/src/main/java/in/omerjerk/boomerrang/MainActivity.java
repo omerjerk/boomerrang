@@ -313,7 +313,7 @@ public class MainActivity extends Activity
                 mRenderer.changeRecordingState(false);
                 recordButton.setClickable(true);
             }
-        }, 1000);
+        }, 1500);
 //        updateControls();
     }
 
